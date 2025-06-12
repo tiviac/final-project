@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A Guyanese Place
+subtitle: *Way I fuh belong?*
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+> This project addresses the invisibility of stories from Guyanese women as intra-Caribbean migrants. While Caribbean migration is often discussed in terms of economics or legality, the emotional and material realities of migrants are less explored. The project highlights these stories and builds an space that affirms and documents their experiences. It demonstrates the importance of creating participatory spaces where marginalised voices are centered and their knowledge is preserved. It highlights their gendered experiences and ensures representation across age, gender, and class.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Please explore these stories with care and kindness. their lives are real... 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I lived in Trinidad and Tobago for 7 years... and it was a journey. This project is a space for me to reflect on my own experiences, and centre the living in the migration. 
