@@ -21,9 +21,10 @@ author: Tivia Collins
 
 navbar-links:
   A Guyanese Place: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Stories:
+    - Jen: "https://beautifuljekyll.com"
+    - Maggie: "2025-06-10-Maggie"
+    - Preya: 
   Author's home: "https://deanattali.com"
 
 ################
