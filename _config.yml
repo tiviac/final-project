@@ -42,7 +42,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-page-img: assets/img/logo-migration.png 
+<img src="assets/img/logo-migration.png" alt="migration logo">
 
 #####################################
 # --- Footer social media links --- #
