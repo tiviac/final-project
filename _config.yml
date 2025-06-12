@@ -22,7 +22,7 @@ author: Tivia Collins
 navbar-links:
   A Guyanese Place: "aboutme"
   Stories:
-    - Jen: "https://beautifuljekyll.com"
+    - Jen: "2020-02-28-sample-markdown"
     - Maggie: "2025-06-10-Maggie"
     - Preya: 
   Author's home: "https://deanattali.com"
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo-migration.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
