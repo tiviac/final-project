@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Guyanese Place
-subtitle: *Way I fuh belong?*
+subtitle: Way I fuh belong?
 ---
 
 
