@@ -9,6 +9,9 @@ subtitle: Way I fuh belong?
 
 Please explore these stories with care and kindness. their lives are real... 
 
+<img src="../assets/img/logo-migration.png" alt="Image of Migration Logo">
+
+
 ### My story
 
 I lived in Trinidad and Tobago for 7 years... and it was a journey. This project is a space for me to reflect on my own experiences, and centre the living in the migration. 
