@@ -10,8 +10,10 @@ subtitle: Way I fuh belong?
 Please explore these stories with care and kindness. their lives are real... 
 
 <img src="../assets/img/logo-migration.png" alt="Image of Migration Logo">
+<br/>
+
+### About the Logo
+
+The logo features a butterfly whose wings are tides and currents from the Caribbean Sea and Atlantic Ocean. Caribbean countries are visible in and around its wings. The body of the butterfly is a subtle compass, symbolizing direction, journey, and purpose.<br/>Butterflies are natural migrators, moving across great distances for survival, growth, and renewal. This mirrors the Caribbean migration story—people moving across borders for love, work, safety, opportunity, or belonging. 
 
 
-### My story
-
-I lived in Trinidad and Tobago for 7 years... and it was a journey. This project is a space for me to reflect on my own experiences, and centre the living in the migration. 
